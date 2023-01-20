@@ -1,0 +1,18 @@
+.technique-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.technique-title p {
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.example {
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
